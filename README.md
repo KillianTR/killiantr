@@ -30,7 +30,3 @@
     <a href='https://github.com/sponsors/KillianTR'>Sponsor</a>
   </samp>
 </div>
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="killiantr" /> </p>
