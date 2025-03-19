@@ -3,7 +3,7 @@
 <h1>Hello! I'm Killian Torrell <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 <h2>Fullstack Developer 🎨</h2>
 
-### About Me
+### 👤 About Me
 - I'm 26 years old. 🎂
 - I'm from Reus, Catalonia, Spain. 🏠
 - I am a full stack developer with JAVA, computer technician and graphic designer. 🎓
@@ -12,7 +12,7 @@
 - Languages: Catalan, Spanish, English and French. 🗣️
 
 
-### Technologies
+### 💻 Technologies
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
@@ -23,7 +23,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=killiantr&show_icons=true&theme=dark&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=killiantr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=killiantr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
