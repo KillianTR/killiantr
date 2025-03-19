@@ -30,7 +30,7 @@
 
 
 ### ✍️ Quote that I love
-![Valentino Rossi Quote](https://img.shields.io/badge/Quote-When%20life%20gets%20you%20down%2C%20remember%2C%20only%20one%20down%2C%20the%20rest%20is%20up.-blue?style=for-the-badge&logo=quotable)
+![Valentino Rossi Quote](https://img.shields.io/badge/Quote-When%20life%20gets%20you%20down%2C%20remember%2C%20only%20one%20down%2C%20the%20rest%20is%20up.%20-%20Valentino%20Rossi-blue?style=for-the-badge&logo=quotable)
 
 
 ### Contact Me
