@@ -24,13 +24,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=killiantr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=killiantr&show_icons=true&theme=dark&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=killiantr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=killiantr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### ✍️ Quote that I love
-![Valentino Rossi Quote](https://img.shields.io/badge/Quote-When%20life%20gets%20you%20down%2C%20remember%2C%20only%20one%20down%2C%20the%20rest%20is%20up.%20-%20Valentino%20Rossi-blue?style=for-the-badge&logo=quotable)
+![Valentino Rossi Quote](https://img.shields.io/badge/Quote-When%20life%20gets%20you%20down%2C%20remember%2C%20only%20one%20down%2C%20the%20rest%20is%20up.-blue?style=for-the-badge&logo=quotable)
 
 
 ### Contact Me
