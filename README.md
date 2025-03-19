@@ -5,7 +5,7 @@
 
 ### About Me
 - I'm 26 years old and I'm from Reus, Catalonia, Spain.
-- I am a full stack developer with JAVA.
+- I am a full stack developer with JAVA, computer technician and graphic designer.
 - I am a self-taught and very creative person who seeks to learn and improve every day.
 - I like working with the frontend because I want to offer the best visual experience to the users that visit my projects and I love graphic design since I was a child.
 
