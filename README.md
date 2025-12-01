@@ -1,6 +1,6 @@
 
 
-<h1>Hello! I'm Killian Torrell <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+<h1>Hello, I'm Killian Torrell <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 <h2>Fullstack Developer 💻</h2>
 
 ### 👤 About Me
