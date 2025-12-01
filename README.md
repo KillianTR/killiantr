@@ -4,7 +4,7 @@
 <h2>Fullstack Developer 💻</h2>
 
 ### 👤 About Me
-- I'm 26 years old. 🎂
+- I'm 27 years old. 🎂
 - I'm from Reus, Catalonia, Spain. 🏠
 - I am a full stack developer with JAVA, computer technician and graphic designer. 🎓
 - I am a self-taught and very creative person who seeks to learn and improve every day. 🌱
