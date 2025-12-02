@@ -22,7 +22,8 @@
 
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=killiantr&show_icons=true&theme=dark&hide_border=false&cache_buster=1)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=killiantr&theme=dark&hide_border=false)<br/>
 
 
 
