@@ -37,7 +37,7 @@
   <samp>
     <a href='https://killiantr.vercel.app/'>Website</a> •
     <a href='https://www.linkedin.com/in/killiantorrell/'>LinkedIn</a> •
-    <a href='https://www.behance.net/vznumdis'>Behance</a> •
+    <a href='https://www.behance.net/vznumdis'>Behance</a>
   </samp>
 </div>
 
