@@ -4,7 +4,7 @@
 <h2>Fullstack Developer 💻</h2>
 
 ### 👤 About Me
-- I'm 27 years old. 🎂
+- I'm 28 years old. 🎂
 - I am a full stack developer with JAVA, computer technician and graphic designer. 🎓
 - I am a self-taught and very creative person who seeks to learn and improve every day. 🌱
 - I like working with the frontend because I want to offer the best visual experience to the users that visit my projects and I love graphic design since I was a child. 🧑🏻‍💻
@@ -35,10 +35,9 @@
 
 <div align='center'>
   <samp>
-    <a href='https://killiantr.github.io/'>Website</a> •
+    <a href='https://killiantr.vercel.app/'>Website</a> •
     <a href='https://www.linkedin.com/in/killiantorrell/'>LinkedIn</a> •
     <a href='https://www.behance.net/vznumdis'>Behance</a> •
-    <a href='https://github.com/sponsors/KillianTR'>Sponsor</a>
   </samp>
 </div>
 
