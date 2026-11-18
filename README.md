@@ -17,16 +17,16 @@ I love building modern web applications, desktop software, and high-performance 
 * 🏁 **[StradiFans](https://stradifans.vercel.app)** – Interactive paddock fan platform for simracing streamer Stradi. Features live Twitch status detection, interactive 5-light reaction start timer ("Ranking de salidas"), YouTube race explorer, Stradipedia lore wiki, and soundboard player with iconic broadcast audio clips.  
   👉 **[Live on Vercel](https://stradifans.vercel.app)**
 
-* 🏴‍☠️ **[Grand Line Vault](https://grand-line-vault-tcg.vercel.app)** – Interactive virtual binder & collection tracker for **One Piece Card Game** collectors (inspired by Vault X). Features 9 & 12-pocket pages, Web Audio tactile sound effects, drag-and-drop folders, real-time CardTrader market valuations, and cloud database sync via Supabase.  
-  👉 **[GitHub Repo](https://github.com/KillianTR/one-piece-tcg)**
-
-* ⏱️ **[Pomodoro Timer App](https://pomodoro-timer-killiantr.vercel.app)** – High-performance, distraction-free productivity timer with a minimalist Vercel aesthetic, localStorage persistence, and smooth animations.  
-  👉 **[GitHub Repo](https://github.com/KillianTR/Pomodoro-Timer)**
-
 * 🏎️ **[DTM HUD PRO / Simracing Telemetry](https://www.patreon.com)** – Real-time telemetry HUD for Assetto Corsa built with Lua & Custom Shaders Patch (CSP). Launched with a freemium model: free Lite edition for the simracing community and a Pro edition monetized on Patreon.
 
 * 🎵 **[Taskbar Music Widget](https://github.com/KillianTR/TaskbarMusicWidget)** – Native Windows 10/11 taskbar widget displaying live playback (Spotify, YouTube, browsers) with mouse-wheel volume control, floating album art flyout, and ultra-low CPU footprint (<0.1%). Built with C#, .NET 8, WPF & Win32 API.  
   👉 **[GitHub Repo](https://github.com/KillianTR/TaskbarMusicWidget)**
+
+* ⏱️ **[Pomodoro Timer App](https://pomodoro-timer-killiantr.vercel.app)** – High-performance, distraction-free productivity timer with a minimalist Vercel aesthetic, localStorage persistence, and smooth animations.  
+  👉 **[GitHub Repo](https://github.com/KillianTR/Pomodoro-Timer)**
+
+* 🏴‍☠️ **[Grand Line Vault](https://grand-line-vault-tcg.vercel.app)** – Interactive virtual binder & collection tracker for **One Piece Card Game** collectors (inspired by Vault X). Features 9 & 12-pocket pages, Web Audio tactile sound effects, drag-and-drop folders, real-time CardTrader market valuations, and cloud database sync via Supabase.  
+  👉 **[GitHub Repo](https://github.com/KillianTR/one-piece-tcg)**
 
 ---
 
