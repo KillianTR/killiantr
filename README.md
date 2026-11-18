@@ -17,7 +17,10 @@ I love building modern web applications, desktop software, and high-performance 
 * 🏁 **[StradiFans](https://stradifans.vercel.app)** – Interactive paddock fan platform for the simracing community and streamer Stradi. Features real-time live data via Twitch API, interactive games and community features, YouTube race explorer, Stradipedia lore wiki, and soundboard player with iconic broadcast audio clips.  
   👉 **[Live on Vercel](https://stradifans.vercel.app)**
 
-* 🏎️ **[DTM HUD PRO / Simracing Telemetry](https://www.patreon.com)** – Real-time telemetry HUD for Assetto Corsa built with Lua & Custom Shaders Patch (CSP). Launched with a freemium model: free Lite edition for the simracing community and a Pro edition monetized on Patreon.
+* 🏎️ **[DTM HUD PRO & GT Challenge Minimalist HUD](https://www.patreon.com/Vznum/posts/minimalist-hud-3-173945006)** – Real-time telemetry overlays for Assetto Corsa built with Lua & Custom Shaders Patch (CSP), featuring DTM broadcast styling and a sleek minimalist GT Challenge HUD monetized on Patreon.
+
+* 🏁 **[Karting Calafat (3D Scratch Track)](https://www.overtake.gg/downloads/karting-calafat.88434/)** – My first race track built from scratch in 3 weeks using Blender, custom textures, physical surfaces, and AI lines. Published and available for the simracing community on **Overtake.gg** (the largest simracing community worldwide).  
+  👉 **[Download on Overtake.gg](https://www.overtake.gg/downloads/karting-calafat.88434/)**
 
 * ⏱️ **[Pomodoro Timer App](https://pomodoro-timer-killiantr.vercel.app)** – High-performance, distraction-free productivity timer with a minimalist Vercel aesthetic, localStorage persistence, and smooth animations.  
   👉 **[GitHub Repo](https://github.com/KillianTR/Pomodoro-Timer)**
