@@ -14,7 +14,7 @@ I love building modern web applications, desktop software, and high-performance 
 * ⭐ **[PitWindow · Modern Sim Racing Overlays](https://pitwindow.app)** – Free, modern sim racing overlays built like a TV broadcast for **iRacing, Le Mans Ultimate, ACC, Assetto Corsa and RaceRoom**. Features 31 live overlays, OBS Studio stream integration, in-headset VR support, fuel calculators, and real-time telemetry. Officially published on the **Microsoft Store** and hosted on **Cloudflare Edge**.  
   👉 **[Web Oficial](https://pitwindow.app)** · **[Microsoft Store](https://apps.microsoft.com/detail/9p0k8w20658q)**
 
-* 🏁 **[StradiFans](https://stradifans.vercel.app)** – Interactive paddock fan platform for simracing streamer Stradi. Features live Twitch status detection, interactive 5-light reaction start timer ("Ranking de salidas"), YouTube race explorer, Stradipedia lore wiki, and soundboard player with iconic broadcast audio clips.  
+* 🏁 **[StradiFans](https://stradifans.vercel.app)** – Interactive paddock fan platform for the simracing community and streamer Stradi. Features real-time live data via Twitch API, interactive games and community features, YouTube race explorer, Stradipedia lore wiki, and soundboard player with iconic broadcast audio clips.  
   👉 **[Live on Vercel](https://stradifans.vercel.app)**
 
 * 🏎️ **[DTM HUD PRO / Simracing Telemetry](https://www.patreon.com)** – Real-time telemetry HUD for Assetto Corsa built with Lua & Custom Shaders Patch (CSP). Launched with a freemium model: free Lite edition for the simracing community and a Pro edition monetized on Patreon.
