@@ -54,6 +54,7 @@ I love building modern web applications, desktop software, and high-performance 
 - 🌐 Portfolio: [killiantr.vercel.app](https://killiantr.vercel.app)  
 - 🏎️ PitWindow: [pitwindow.app](https://pitwindow.app)  
 - 🏁 StradiFans: [stradifans.vercel.app](https://stradifans.vercel.app)  
+- 💬 Discord: [Join the Community](https://discord.gg/MJmPrC2sNZ)  
 - 💼 LinkedIn: [Killian Torrell](https://www.linkedin.com/in/killiantorrell)  
 - 🎨 Behance: [Killian Torrell](https://www.behance.net/vznumdis)  
 - ☕ Patreon: [DTM HUD Simracing](https://www.patreon.com)  
