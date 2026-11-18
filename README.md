@@ -1,14 +1,21 @@
 # 👋 Hi, I'm Killian Torrell
 
-Full-Stack Developer & Systems builder based in Spain.  
-I love building modern web applications, desktop tools, and automation scripts to solve real problems. Driven by curiosity and the mindset of **getting 1% better every single day**.
+Full-Stack Developer, Systems Builder & Simracing Software Creator based in Spain.  
+I love building modern web applications, desktop software, and high-performance racing tools. Driven by curiosity and the mindset of **getting 1% better every single day**.
 
 🌐 **Portfolio:** [killiantr.vercel.app](https://killiantr.vercel.app)  
+🏎️ **Flagship Project:** [pitwindow.app](https://pitwindow.app)  
 💼 **LinkedIn:** [linkedin.com/in/killiantorrell](https://www.linkedin.com/in/killiantorrell)
 
 ---
 
-## 🎯 Active Projects
+## 🎯 Active Projects & Shipped Software
+
+* ⭐ **[PitWindow · Modern Sim Racing Overlays](https://pitwindow.app)** – Free, modern sim racing overlays built like a TV broadcast for **iRacing, Le Mans Ultimate, ACC, Assetto Corsa and RaceRoom**. Features 31 live overlays, OBS Studio stream integration, in-headset VR support, fuel calculators, and real-time telemetry. Officially published on the **Microsoft Store** and hosted on **Cloudflare Edge**.  
+  👉 **[Web Oficial](https://pitwindow.app)** · **[Microsoft Store](https://apps.microsoft.com/detail/9p0k8w20658q)**
+
+* 🏁 **[StradiFans](https://stradifans.vercel.app)** – Interactive paddock fan platform for simracing streamer Stradi. Features live Twitch status detection, interactive 5-light reaction start timer ("Ranking de salidas"), YouTube race explorer, Stradipedia lore wiki, and soundboard player with iconic broadcast audio clips.  
+  👉 **[Live on Vercel](https://stradifans.vercel.app)**
 
 * 🏴‍☠️ **[Grand Line Vault](https://grand-line-vault-tcg.vercel.app)** – Interactive virtual binder & collection tracker for **One Piece Card Game** collectors (inspired by Vault X). Features 9 & 12-pocket pages, Web Audio tactile sound effects, drag-and-drop folders, real-time CardTrader market valuations, and cloud database sync via Supabase.  
   👉 **[GitHub Repo](https://github.com/KillianTR/one-piece-tcg)**
@@ -35,15 +42,18 @@ I love building modern web applications, desktop tools, and automation scripts t
 
 ## 🛠️ Tech Stack & Tools
 
+* **Software & Desktop:** C# (.NET 8, WPF), Windows 10/11 APIs, Lua (Assetto Corsa CSP), DirectX, OBS Studio APIs, Telemetry.
 * **Frontend & Full-Stack:** React 19, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Framer Motion, HTML5, CSS3.
-* **Backend, Databases & Cloud:** Node.js, Java (Spring Boot), Python, Supabase, PostgreSQL, MySQL, Oracle SQL, Vercel, REST APIs.
-* **Systems & Desktop:** C# (.NET 8, WPF), Lua (Assetto Corsa CSP), PowerShell, Active Directory, Windows Server, Linux (ASIX / SMX).
+* **Backend, Databases & Cloud:** Cloudflare, Supabase, PostgreSQL, Node.js, Java (Spring Boot), Python, MySQL, Oracle SQL, Vercel, REST APIs.
+* **Systems & Networking:** Active Directory, Windows Server, Linux, VLANs, Hardware Diagnostics (ASIX / SMX).
 
 ---
 
 ## 📢 Social & Connect  
 
 - 🌐 Portfolio: [killiantr.vercel.app](https://killiantr.vercel.app)  
+- 🏎️ PitWindow: [pitwindow.app](https://pitwindow.app)  
+- 🏁 StradiFans: [stradifans.vercel.app](https://stradifans.vercel.app)  
 - 💼 LinkedIn: [Killian Torrell](https://www.linkedin.com/in/killiantorrell)  
 - 🎨 Behance: [Killian Torrell](https://www.behance.net/vznumdis)  
 - ☕ Patreon: [DTM HUD Simracing](https://www.patreon.com)  
